@@ -54,11 +54,11 @@ Polished portfolio work lives at **[thatdevpro.com/portfolio](https://www.thatde
 
 ## Federal contracting
 
-- ✅ **SDVOSB** (Service-Disabled Veteran-Owned Small Business) — SBA certified
-- ✅ **SAM.gov** registered for federal procurement
-- ✅ **NAICS 541511, 541512, 541519**
-- ✅ Eligible for sole-source set-aside under FAR Subpart 19.14 up to the simplified acquisition threshold
-- ✅ Prime contractor or subcontractor arrangements available
+- 🪪 **Legal entity**: **THATDEVELOPERGUY** — single-member LLC, sole member Joseph W. Anady (EIN issued by IRS 2026-05-19)
+- 🆔 **SAM.gov UEI**: [`FFG3A4SK9HY6`](https://sam.gov/entity/FFG3A4SK9HY6) (assigned 2026-05-21) · full SAM.gov entity registration in progress
+- 📋 **Prospective NAICS**: 541511 (Custom Computer Programming Services) · 541512 (Computer Systems Design Services) · 541519 (Other Computer Related Services)
+- 🪖 **Service-Disabled Veteran-Owned (SDVO)** · SBA VSBC formal SDVOSB certification in progress
+- 📍 Registered at 463 State Highway 76, Cassville, MO 65625-6563, USA
 
 ## About
 
