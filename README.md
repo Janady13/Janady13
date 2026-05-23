@@ -41,6 +41,7 @@ No Cloudflare. No Wix. No Squarespace. No Vercel/Netlify proxy in front of payin
 
 Most of this account is a working substrate, not a curated portfolio:
 
+- **[aio-surfaces](https://github.com/Janady13/aio-surfaces)** — MIT-licensed Python toolkit that generates the four AI-citation surfaces (llms.txt, aeo.json, entity.json, brand.json) from a single site config. Same code that powers thatdevpro.com.
 - **[autonomous-ai-music-2.0](https://github.com/Janady13/autonomous-ai-music-2.0)** — AI music research lab, current generation
 - **[thataiguy-org-website](https://github.com/Janady13/thataiguy-org-website)** — The Hive AGI · ThatAIGuy.org website
 - **[autonomous-ai-music](https://github.com/Janady13/autonomous-ai-music)** — earlier music lab generation
