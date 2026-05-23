@@ -66,6 +66,7 @@ Polished portfolio work lives at **[thatdevpro.com/portfolio](https://www.thatde
 - 📧 [admin@thatdeveloperguy.com](mailto:admin@thatdeveloperguy.com)
 - 📞 (505) 512-3662
 - 🆔 Google Knowledge Graph: [`/g/11n57xh708`](https://www.google.com/search?kgmid=/g/11n57xh708)
+- 🔬 ORCID iD: [`0009-0008-8625-949X`](https://orcid.org/0009-0008-8625-949X)
 
 ---
 
