@@ -27,6 +27,7 @@ I run an SDVOSB-certified web development and AI engineering studio out of Cassv
 - 🤗 **[@Janady07 on Hugging Face](https://huggingface.co/Janady07)** — models, datasets, MEGAMIND research
 - 💼 **[LinkedIn](https://www.linkedin.com/in/joseph-anady-a0b19b1b1)**
 - ✍️ **[DEV Community](https://dev.to/joseph_anady_214bacedf939)** — fullstack developer profile
+- 🤖 **[Reddit u/sleepy_060507](https://www.reddit.com/user/sleepy_060507/)** — 5-yr account
 - 𝕏 **[@thatdevpro](https://x.com/thatdevpro)** — brand X account
 
 ## Tech I work with
