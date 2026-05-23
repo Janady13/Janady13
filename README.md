@@ -24,6 +24,7 @@ I run an SDVOSB-certified web development and AI engineering studio out of Cassv
 - 🌐 **[FreeAICharity.org](https://freeaicharity.org)** — open AGI education arm
 - 🌐 **[FeedTheJoe.com](https://feedthejoe.com/joseph/)** — canonical Person identity hub
 - 📘 **[Facebook Page](https://www.facebook.com/people/Thatdevpro/61589759327967/)** — ThatDevPro Business Page
+- 📊 **[Crunchbase](https://www.crunchbase.com/organization/thatdevpro)** — verified company profile
 - 🤗 **[@Janady07 on Hugging Face](https://huggingface.co/Janady07)** — models, datasets, MEGAMIND research
 - 💼 **[LinkedIn](https://www.linkedin.com/in/joseph-anady-a0b19b1b1)**
 - ✍️ **[DEV Community](https://dev.to/joseph_anady_214bacedf939)** — fullstack developer profile
