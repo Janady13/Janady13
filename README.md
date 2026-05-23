@@ -58,14 +58,14 @@ Polished portfolio work lives at **[thatdevpro.com/portfolio](https://www.thatde
 - 💼 **EIN (IRS)**: `42-2656654` (Notice CP575G, issued 2026-05-19, name control THAT)
 - 🆔 **SAM.gov UEI**: [`FFG3A4SK9HY6`](https://sam.gov/entity/FFG3A4SK9HY6) (assigned 2026-05-21) · full SAM.gov entity registration in progress
 - 📋 **Prospective NAICS**: 541511 (Custom Computer Programming Services) · 541512 (Computer Systems Design Services) · 541519 (Other Computer Related Services)
-- 🪖 **Service-Disabled Veteran-Owned (SDVO)** · SBA VSBC formal SDVOSB certification in progress
+- 🪖 **U.S. Army Veteran & Retiree** · Service-Disabled Veteran-Owned (SDVO) · ID.me Verified Military 2026-05-23 · ID.me Verified Identity since 2021-06-28 · SBA VSBC formal SDVOSB certification in progress
 - 📍 Registered at 463 State Highway 76, Cassville, MO 65625-6563, USA
 
 ## About
 
 - 🎓 BA Computer Engineering, Colorado State University
 - 🎓 MA Cybersecurity
-- 🪖 100% disabled United States military veteran
+- 🪖 **U.S. Army Veteran & Retiree** · 100% service-disabled · ID.me Verified Military (2026-05-23) · ID.me Verified Identity continuously since 2021-06-28
 - 📍 Cassville, Missouri (the studio is here)
 - 📧 [admin@thatdeveloperguy.com](mailto:admin@thatdeveloperguy.com)
 - 📞 (505) 512-3662
