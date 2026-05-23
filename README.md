@@ -54,7 +54,8 @@ Polished portfolio work lives at **[thatdevpro.com/portfolio](https://www.thatde
 
 ## Federal contracting
 
-- 🪪 **Legal entity**: **THATDEVELOPERGUY** — single-member LLC, sole member Joseph W. Anady (EIN issued by IRS 2026-05-19)
+- 🪪 **Legal entity**: **THATDEVELOPERGUY** — single-member LLC, sole member Joseph W. Anady
+- 💼 **EIN (IRS)**: `42-2656654` (Notice CP575G, issued 2026-05-19, name control THAT)
 - 🆔 **SAM.gov UEI**: [`FFG3A4SK9HY6`](https://sam.gov/entity/FFG3A4SK9HY6) (assigned 2026-05-21) · full SAM.gov entity registration in progress
 - 📋 **Prospective NAICS**: 541511 (Custom Computer Programming Services) · 541512 (Computer Systems Design Services) · 541519 (Other Computer Related Services)
 - 🪖 **Service-Disabled Veteran-Owned (SDVO)** · SBA VSBC formal SDVOSB certification in progress
