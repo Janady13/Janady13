@@ -63,7 +63,7 @@ Polished portfolio work lives at **[thatdevpro.com/portfolio](https://www.thatde
 - 🎓 MA Cybersecurity
 - 🪖 100% disabled United States military veteran
 - 📍 Cassville, Missouri (the studio is here)
-- 📧 [admin@thatdevpro.com](mailto:admin@thatdevpro.com)
+- 📧 [admin@thatdeveloperguy.com](mailto:admin@thatdeveloperguy.com)
 - 📞 (505) 512-3662
 - 🆔 Google Knowledge Graph: [`/g/11n57xh708`](https://www.google.com/search?kgmid=/g/11n57xh708)
 
