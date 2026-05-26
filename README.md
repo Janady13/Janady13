@@ -87,6 +87,14 @@ A growing public reference covering every crawler signal a website emits:
 - **[ThatDevPro Reference](https://www.thatdevpro.com/reference/)** — 26 canonical references for HTML meta tags, Open Graph, Twitter Cards, HTTP status codes, HTTP headers
 - **[ThatDevPro Insights](https://www.thatdevpro.com/insights/)** — 100+ SEO/AEO/AIO/GEO framework articles
 
+## Recent client work (2026)
+
+- **[Steele Solutions](https://steelesolutions4u.com/)** (May 2026) — 60-page hand-coded T1-T9 site for Jim and Kim Steele's family-run merchant services brokerage in Branson, Missouri. 9-service catalog (POS, [credit card processing](https://steelesolutions4u.com/credit-card-processing/), [ATM placements](https://steelesolutions4u.com/atm-placements/), [business lending](https://steelesolutions4u.com/business-lending/), [CSSI cost segregation](https://steelesolutions4u.com/cssi-cost-segregation/), [dual pricing](https://steelesolutions4u.com/dual-pricing/), [free POS](https://steelesolutions4u.com/free-pos/), [Business CPR](https://steelesolutions4u.com/business-cpr/)), 13 service-area pages across MO/AR/OK/KS, full FinancialService schema, FTC-disclosed [10-partner directory](https://steelesolutions4u.com/partners/). [Case study →](https://www.thatdevpro.com/portfolio/case-studies/steele-solutions/)
+- **[Heritage Hardwood Floors](https://heritagehardwoodfloors.thatwebhostingguy.com/)** (April 2026) — full SEO-optimized static site for the Cassville MO hardwood floors family business
+- **[NWA POOlice](https://nwapoolice.com/)** (May 2026) — 22-page pet waste removal service site spanning 8 Northwest Arkansas cities
+- **[Federal Group Talent Partners](https://fgtp.thatwebhostingguy.com/)** (May 2026) — 22-page federal recruiting site with Org+EmploymentAgency schema
+- **[Handled Tax](https://handledtax.com/)** (May 2026) — Amanda Lakey's tax practice, blog admin backend + GBP linkage + indexing rescue
+
 ## Federal contracting
 
 - 🪪 **Legal entity**: **THATDEVELOPERGUY** — single-member LLC, sole member Joseph W. Anady
@@ -110,3 +118,4 @@ A growing public reference covering every crawler signal a website emits:
 ---
 
 <sub>Last updated: 2026-05-25. All credentials are independently verifiable via the linked sources. Profile maintained on GitHub.</sub>
+
