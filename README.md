@@ -31,7 +31,12 @@ I run an SDVOSB-certified web development and AI engineering studio out of Cassv
 - 📘 **[Facebook Page](https://www.facebook.com/people/Thatdevpro/61589759327967/)** — ThatDevPro Business Page
 - 📊 **[Crunchbase](https://www.crunchbase.com/organization/thatdevpro)** — verified company profile
 - 🤗 **[@Janady07 on Hugging Face](https://huggingface.co/Janady07)** — models, datasets, MEGAMIND research
-- ✍️ **[DEV Community](https://dev.to/joseph_anady_214bacedf939)** — 140+ published technical articles
+- ✍️ **[DEV Community](https://dev.to/joseph_anady_214bacedf939)** — 175+ published technical articles
+- ✍️ **[Medium @joseph.w.anady](https://medium.com/@joseph.w.anady)** — long-form republishing
+- ✍️ **[Hashnode @thatdevpro](https://hashnode.com/@thatdevpro)** — tech blog mirror with canonical_url
+- ⭐ **[Yelp (ThatDevPro)](https://www.yelp.com/biz/thatdevpro)** — service business reviews
+- 🏘️ **[Nextdoor business page](https://nextdoor.com/pages/thatdevpro/)** — local NWA discovery
+- 🔎 **[Bing Places (ThatDevPro)](https://www.bing.com/maps?q=thatdevpro)** — verified business listing
 - 🤖 **[Reddit u/sleepy_060507](https://www.reddit.com/user/sleepy_060507/)**
 - 𝕏 **[@thatdevpro](https://x.com/thatdevpro)** — brand X account
 - 💼 **[Freelancer.com](https://www.freelancer.com/u/josepha328)** — verified (ID, payment, phone, email, Facebook)
