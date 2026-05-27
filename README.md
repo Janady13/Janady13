@@ -85,6 +85,8 @@ Most of this account is a working substrate, not a curated portfolio:
 - **[clarksboxing](https://github.com/Janady13/clarksboxing)** — client work
 - **[steele-solutions-resources](https://github.com/Janady13/steele-solutions-resources)** — public documentation + GitHub Pages site for [Steele Solutions](https://steelesolutions4u.com/), a Branson MO merchant services brokerage. [janady13.github.io/steele-solutions-resources/](https://janady13.github.io/steele-solutions-resources/)
 - **[financialservice-schema-examples](https://github.com/Janady13/financialservice-schema-examples)** — curated index of real-world Schema.org FinancialService implementations. Featured: [Steele Solutions](https://steelesolutions4u.com/) with full pattern walkthrough.
+- **[arcounselingandwellness-resources](https://github.com/Janady13/arcounselingandwellness-resources)** — public documentation + GitHub Pages site for [Arkansas Counseling and Wellness Services](https://arcounselingandwellness.com/), a BBB A+ rated multi-location AR counseling practice. [janady13.github.io/arcounselingandwellness-resources/](https://janady13.github.io/arcounselingandwellness-resources/)
+- **[llms-txt-implementation-checklist](https://github.com/Janady13/llms-txt-implementation-checklist)** — practical step-by-step checklist for the four AI citation surfaces (llms.txt, aeo.json, entity.json, brand.json) with Steele Solutions as the running example.
 
 Polished portfolio work lives at **[thatdevpro.com/portfolio](https://www.thatdevpro.com/portfolio/)** (18+ production case studies across 16 verticals).
 
@@ -125,6 +127,7 @@ A growing public reference covering every crawler signal a website emits:
 ---
 
 <sub>Last updated: 2026-05-25. All credentials are independently verifiable via the linked sources. Profile maintained on GitHub.</sub>
+
 
 
 
