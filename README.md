@@ -122,7 +122,7 @@ A growing public reference covering every crawler signal a website emits:
 - 🪖 U.S. Army Sergeant First Class (Retired) · 100% service-disabled
 - 📍 Cassville, Missouri (the studio is here)
 - 📧 [admin@thatdeveloperguy.com](mailto:admin@thatdeveloperguy.com)
-- 📞 (505) 512-3662
+- 📞 (417) 671-2606
 - 💖 Free written audit on any production domain · 48 hour turnaround · no sales call required → **[thatdevpro.com/contact](https://www.thatdevpro.com/contact/)**
 
 ---
