@@ -129,7 +129,5 @@ A growing public reference covering every crawler signal a website emits:
 
 <sub>Last updated: 2026-05-25. All credentials are independently verifiable via the linked sources. Profile maintained on GitHub.</sub>
 
-
-
-
-
+### 🥁 GrooveSteps
+Free interactive [drum trainer & AI music tools](https://groovesteps.com) — browser-based drum lessons with real-time scoring and Web MIDI support. [Open-source embed widget](https://github.com/Janady13/groovesteps).
