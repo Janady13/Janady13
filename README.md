@@ -20,6 +20,21 @@ Each site has its own job.
 | [thatgraphicdesignguy.com](https://thatgraphicdesignguy.com/) | Graphic design, illustrated stories, original characters, print and poster projects |
 | [feedthejoe.com](https://feedthejoe.com/) | The public record of the company and its founder, and the search and AI visibility library |
 
+## Live work
+
+Original pieces, running now.
+
+| Piece | What it is |
+| --- | --- |
+| [Aetheryn](https://aetheryn.thatwebhostingguy.com/) | An explorable living painting: eight realms around a World Tree |
+| [Vespertide](https://vespertide.thatwebhostingguy.com/) | A concept role playing game set in a world held at dusk |
+| [Alexandria](https://thatgraphicdesignguy.com/) | A living storybook with changing skies, weather and seasons |
+| [The Endless Table](https://endlesstable.thatwebhostingguy.com/) | An AI storyteller that runs an original adventure scene by scene |
+| [The text, word by word](https://wordbyword.thatwebhostingguy.com/) | Genesis to Revelation in the original Hebrew and Greek, one word at a time |
+| [Portfolio Game](https://portfolio-game.thatwebhostingguy.com/) | A first person gallery you walk through in the browser |
+
+Client sites and demos are shown live in the gallery at [thatwebhostingguy.com](https://thatwebhostingguy.com/).
+
 ## Open source tools and references
 
 | Repository | What it is |
